@@ -1,6 +1,5 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /discord
-categories: .well-known
+permalink: /.well-known/discord
 
 dh=6f2e60e7895283ea19c7952882a1b187bbbc06eb
